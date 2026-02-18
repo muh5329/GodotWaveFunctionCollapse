@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bnh3m2wopy5a6"]
+
+[ext_resource type="PackedScene" uid="uid://bjrccsq5ebspn" path="res://assets/wall-pane-wood.fbx" id="1_fl4eu"]
+
+[node name="wall-pane-wood" instance=ExtResource("1_fl4eu")]
